@@ -43,8 +43,8 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 <a href="https://github.com/SanchitH17?tab=followers"><img src="https://img.shields.io/github/followers/SanchitH17?label=Followers&style=social" alt="GitHub Badge"></a>
 
  <hr/>
-
-##[Portfolio] <a href="https://sanchith17.github.io/">
+<a href="https://sanchith17.github.io/">
+<h1>Portfolio </h1>
 </a>
 
 
