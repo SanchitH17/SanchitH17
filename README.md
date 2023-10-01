@@ -47,7 +47,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 ##[Portfolio]
 </a>
 
-
+<h2><a href="https://iamfaizee.github.io/">🌍 | Portfolio </a></h2>
 
 
 
