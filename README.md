@@ -43,11 +43,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 <a href="https://github.com/SanchitH17?tab=followers"><img src="https://img.shields.io/github/followers/SanchitH17?label=Followers&style=social" alt="GitHub Badge"></a>
 
  <hr/>
-<a href="https://sanchith17.github.io/">
-##[Portfolio]
-</a>
-
-<h2><a href="https://iamfaizee.github.io/">🌍 | Portfolio </a></h2>
+<h2><a href="https://sanchith17.github.io/">🌍 | Portfolio </a></h2>
 
 
 
