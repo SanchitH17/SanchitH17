@@ -44,7 +44,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 
  <hr/>
 <a href="https://sanchith17.github.io/">
-<h1>Portfolio </h1>
+##[Portfolio]
 </a>
 
 
